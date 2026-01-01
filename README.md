@@ -134,4 +134,4 @@ src/
 
 [Clean Code 정리](https://github.com/woowacourse/woowacourse-docs/blob/main/cleancode/pr_checklist.md)
 
-[Commit Convention]()
+[Commit Convention](https://velog.io/@gaiogo2/Git-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98)
