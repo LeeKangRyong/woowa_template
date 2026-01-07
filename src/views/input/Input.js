@@ -1,7 +1,8 @@
 class Input {
-    constructor() {}
+  
+  constructor() {}
 
-    // 상황에 따라 async/await도 사용하기!
+  // 상황에 따라 async/await도 사용하기!
 
 }
 
