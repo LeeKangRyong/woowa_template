@@ -1,6 +1,6 @@
 import { MissionUtils } from "@woowacourse/mission-utils";
+import { WoowaError, ERROR_PREFIX } from "../../shared/index.js";
 import { OUTPUT } from "./utils/OutputConstants.js";
-import { OutputValidator } from "./utils/OutputValidator.js";
 
 class Output {
     constructor() {
@@ -16,3 +16,5 @@ class Output {
         MissionUtils.Console.print(`${ERROR_PREFIX} ${errorMessage.message}`);
     }
 }
+
+export { Output };
