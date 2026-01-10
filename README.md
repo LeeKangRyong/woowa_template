@@ -72,9 +72,9 @@ npm run test       # 테스트
 **MVC + shared**
 ```
 src/
-├── App.js (Controller)     # 게임 흐름 제어
-├── services/               # 비즈니스 로직 + 일부 서브 컨트롤러
-├── domains/                # 핵심 모델
+├── App.js (Controller)     # 전체적인 흐름 제어
+├── services/               # 도메인 간 복잡한 흐름 제어
+├── domains/                # 비즈니스 로직
 ├── views/                  # 입출력
 └── shared/                 # 공통 유틸
 ```
