@@ -118,8 +118,8 @@ src/
 ## 📚 참고 자료
 [MissionUtils 라이브러리 분석](https://quirky-streetcar-a17.notion.site/mission-utils-28c523184d3c80d8904fe0870e5e4181)
 
-[Clean Code 정리](https://github.com/woowacourse/woowacourse-docs/blob/main/cleancode/pr_checklist.md)
+[우테코 Clean Code](https://github.com/woowacourse/woowacourse-docs/blob/main/cleancode/pr_checklist.md)
 
-[Commit Convention](https://velog.io/@gaiogo2/Git-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98)
+[Commit Convention 정리](https://velog.io/@gaiogo2/Git-%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98)
 
-[개인 참고 자료](https://quirky-streetcar-a17.notion.site/2e1523184d3c805f8e11da2dab1019c1)
+[최종 테스트 대비 개인 참고 자료](https://quirky-streetcar-a17.notion.site/2e1523184d3c805f8e11da2dab1019c1)
